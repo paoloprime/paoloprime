@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About Me
-I am an **AI Native Full-Stack Developer** who builds end-to-end products quickly without compromising safety. I've developed a workflow that enables me to ship code efficiently, and I believe in learning by doing.
+I am a **Full-Stack Developer** who builds end-to-end products quickly without compromising safety. I've developed a workflow with AI and Agents that enables me to ship code efficiently, and I believe in learning by doing.
 
 ## Technical Skills
 
