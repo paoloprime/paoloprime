@@ -7,10 +7,10 @@ I am an **AI Native Full-Stack Developer** who builds end-to-end products quickl
 
 ### Development
 - **Languages:** HTML5, CSS3, JavaScript, TypeScript
-- **Frameworks & Libraries:** React, Next.js, Node.js, Express.js
+- **Frameworks & Libraries:** React, Next.js, NestJS, Node.js, Express.js, Capacitor, Langchain
 - **Databases:** PostgreSQL, SQLite
-- **Technologies & Practices:** RESTful APIs, OAuth, JWT, Responsive Design
-- **Tools:** Git, Claude, Cursor, Perplexity, Qwen
+- **Technologies & Practices:** RESTful APIs, OAuth, Stripe API, JWT, pgvector, Responsive Design, LLMs, Agents
+- **Tools:** Git, Figma, Claude, Cursor, Perplexity, Qwen
 
 ### Design
 - **UI/UX:** User Interface Design, User Experience Design
