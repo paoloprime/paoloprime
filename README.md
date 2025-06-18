@@ -10,7 +10,7 @@ I am a **Full-Stack Developer** who builds end-to-end products quickly without c
 - **Frameworks & Libraries:** React, Next.js, NestJS, Node.js, Express.js, Capacitor, Langchain
 - **Databases:** PostgreSQL, SQLite
 - **Technologies & Practices:** RESTful APIs, OAuth, Stripe API, JWT, pgvector, Responsive Design, LLMs, Agents
-- **Tools:** Git, Figma, Claude, Cursor, Perplexity, Qwen
+- **Tools:** Git, Figma, Claude, Cursor, Perplexity, Qwen, Supabase
 
 ### Design
 - **UI/UX:** User Interface Design, User Experience Design
