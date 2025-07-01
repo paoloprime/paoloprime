@@ -1,5 +1,7 @@
 # Hi there 👋
-
+        <div class="image-wrapper">
+            <img src="https://www.paolopiana.com/me-professional-anime.png" alt="Professional Anime Portrait" />
+        </div>
 ## About Me
 I am a **Technical PM & Full-Stack Developer** who builds end-to-end products quickly without compromising safety. I've developed a workflow with AI and Agents that enables me to ship code efficiently, and I believe in learning by doing.
 
